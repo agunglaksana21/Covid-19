@@ -1,0 +1,13 @@
+C:\Users\agung\source\repos\Covid\Covid\obj\Debug\Covid.vbprojAssemblyReference.cache
+C:\Users\agung\source\repos\Covid\Covid\obj\Debug\Covid.Form1.resources
+C:\Users\agung\source\repos\Covid\Covid\obj\Debug\Covid.Resources.resources
+C:\Users\agung\source\repos\Covid\Covid\obj\Debug\Covid.vbproj.GenerateResource.cache
+C:\Users\agung\source\repos\Covid\Covid\obj\Debug\Covid.vbproj.CoreCompileInputs.cache
+C:\Users\agung\source\repos\Covid\Covid\bin\Debug\Covid.exe.config
+C:\Users\agung\source\repos\Covid\Covid\bin\Debug\Covid.exe
+C:\Users\agung\source\repos\Covid\Covid\bin\Debug\Covid.pdb
+C:\Users\agung\source\repos\Covid\Covid\bin\Debug\Covid.xml
+C:\Users\agung\source\repos\Covid\Covid\obj\Debug\Covid.exe
+C:\Users\agung\source\repos\Covid\Covid\obj\Debug\Covid.xml
+C:\Users\agung\source\repos\Covid\Covid\obj\Debug\Covid.pdb
+C:\Users\agung\source\repos\Covid\Covid\obj\Debug\Covid.Form2.resources
